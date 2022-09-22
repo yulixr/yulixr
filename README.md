@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://tenor.com/view/good-evening-hand-wave-hello-waving-hands-good-afternoon-gif-3589999392326366408" width='40' align="left"/><h2>Hey there! I'm yulixr</h2>
+<img src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm yulixr</h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm yulixr -->
