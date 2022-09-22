@@ -13,7 +13,7 @@
 
 ### Stats 📊
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/yulixr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yulixr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulixr&theme=algolia&layout=compact"/>
