@@ -1,9 +1,11 @@
-<h2><img src="./assets/hi-good-afternoon.gif" width='30' align="left"/>Hey there! I'm yulixr <img src="./assets/hi-good-afternoon.gif" width='30' style = "vertical-align:bottom;"/></h2>
+<h2><img src="./assets/hi-good-afternoon.gif" width='30' align="left"/>Hey there! I'm yulixr <img src="./assets/hi-good-afternoon.gif" width='30'/></h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm yulixr -->
+### About Me &nbsp;📝
 
-### Languages 🖥
+
+### Languages &nbsp; 🖥
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -11,7 +13,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### Stats 📊
+### Stats &nbsp; 📊
 
 <p align="left">
 <a href="https://github.com/yulixr">
