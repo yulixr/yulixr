@@ -1,4 +1,4 @@
-<h2>Hey there! I'm yulixr</h2><img src="./assets/marflrt.gif" width='40' align="right"/>
+<h2>Hey there! I'm yulixr <img src="./assets/marflrt.gif" width='40' align="right"/></h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm yulixr -->
