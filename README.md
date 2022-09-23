@@ -1,5 +1,5 @@
 <h2><img src="./assets/hi-good-afternoon.gif" width='30' align="left"/>Hey there! I'm yulixr <img src="./assets/hi-good-afternoon.gif" width='30'/></h2>
-<img src="https://komarev.com/ghpvc/?username=yulixr&style=flat-square&color=blue" alt=""/>
+
 
 
 ### About Me &nbsp;📝
@@ -7,6 +7,8 @@
 🎓 &nbsp;I'm currently studying Robotics and AI at the ITMO Univesity.\
 🤖 &nbsp;Studying bots coding for discord and telegram.\
 ✍⏳ &nbsp;In my spare time, I edit videos, play musical instruments and develop graphic design skills.\
+
+---
 
 ### Languages &nbsp; 🖥
 
@@ -17,6 +19,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+---
+
 ### Stats &nbsp; 📊
 
 <p align="left">
@@ -25,6 +29,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yulixr&theme=algolia&layout=compact"/>
 </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=yulixr&style=flat-square&color=blue" alt=""/>
 <!--
 **yulixr/yulixr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
