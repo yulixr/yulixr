@@ -2,7 +2,7 @@
 
 
 
-### About Me &nbsp;📝
+### About Me &nbsp;
 
   🎓 &nbsp;I'm currently studying Robotics and AI at the ITMO Univesity.\
 
@@ -12,7 +12,7 @@
 
 ---
 
-### Tech &nbsp; 🖥
+### Tech &nbsp; 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -27,7 +27,7 @@
 
 ---
 
-### Stats &nbsp; 📊
+### Stats &nbsp; 
 
 <p align="left">
 <a href="https://github.com/yulixr">
