@@ -1,5 +1,5 @@
 <h2><img src="./assets/hi-good-afternoon.gif" width='30' align="left"/>Hey there! I'm yulixr <img src="./assets/hi-good-afternoon.gif" width='30'/></h2>
-
+<img src="https://komarev.com/ghpvc/?username=yulixr&style=flat-square&color=blue" alt=""/>
 
 <!-- ## 👋 &nbsp;Hey there! I'm yulixr -->
 ### About Me &nbsp;📝
