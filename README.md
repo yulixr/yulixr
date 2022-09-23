@@ -5,8 +5,10 @@
 ### About Me &nbsp;📝
 
 🎓 &nbsp;I'm currently studying Robotics and AI at the ITMO Univesity.\
+
 🤖 &nbsp;Studying bots coding for discord and telegram.\
-✍⏳ &nbsp;In my spare time, I edit videos, play musical instruments and develop graphic design skills.\
+
+⏳ &nbsp;In my spare time, I edit videos, play musical instruments and develop graphic design skills.\
 
 ---
 
