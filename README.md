@@ -4,7 +4,7 @@
 
 ### About Me &nbsp; 
 
-  🎓 &nbsp;I'm currently studying Robotics and AI at the ITMO Univesity.
+  🎓 &nbsp;I'm currently studying Robotics and AI at ITMO Univesity.
 
   🤖 &nbsp;Studying bots coding for discord and telegram.
 
