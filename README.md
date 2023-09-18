@@ -4,11 +4,11 @@
 
 ### About Me &nbsp; 
 
-  🎓 &nbsp;I'm currently studying Robotics and AI at ITMO Univesity.
+  🎓 &nbsp;Currently pursuing Robotics and AI studies at ITMO University.
 
-  🤖 &nbsp;Studying bots coding for discord and telegram.
+  🤖 &nbsp;Proficient in coding bots for Discord and Telegram.
 
-  ⏳ &nbsp;In my spare time, I edit videos, play musical instruments and develop graphic design skills.
+  ⏳ &nbsp;In my free time, I excel in video editing, musical instrument playing, and honing my graphic design skills.
 
 ---
 
